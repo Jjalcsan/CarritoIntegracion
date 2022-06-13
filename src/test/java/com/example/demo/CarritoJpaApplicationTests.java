@@ -8,9 +8,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class CarritoJpaApplicationTests {
 
+	/*
 	@Test
 	void contextLoads() {
 		assertTrue("This will succeed.", true);
 	}
-
+	*/
 }
