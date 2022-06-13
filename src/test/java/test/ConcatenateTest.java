@@ -15,7 +15,7 @@ class ConcatenateTest {
 
         String result = concatenate.concatenate("one", "two");
 
-        assertEquals("onetwo", result);
+        assertEquals("one2two", result);
 
     }
 
